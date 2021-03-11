@@ -1,0 +1,24 @@
+#google-logo {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10.3%;
+    height: auto;
+}
+
+#search-container {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+#searchbox {
+    width: 400px;
+}
+
+@media (max-width: 1200px){
+    #searchbox{
+        width: 300px;
+    }
+}
