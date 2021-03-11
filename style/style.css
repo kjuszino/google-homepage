@@ -38,7 +38,7 @@
 .search-button {
     border-radius: 1%;
     margin:20px;
-    margin-top: 35px;
+    margin-top: 30px;
     
 }
 
@@ -64,3 +64,22 @@ li {
     display: inline;
 }
 
+#footer{
+    position: fixed;
+    bottom: 0;
+    margin-bottom: -15px;
+}
+
+
+
+html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+ }
+ 
+ body {
+    margin: 0px;
+    min-height: 98%;
+    width: 100%;
+ }
