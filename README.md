@@ -1,1 +1,1 @@
-In here I will explain what I've learned throughout this project.
+Throughout this project I've learned how to make a navigation bar and a footer. I have also learned how to round input forms and buttons.
