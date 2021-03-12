@@ -69,8 +69,8 @@
 #signin-button {
     background-color: rgb(97, 97, 238);
     color: white;
-    border-style: static;
-    border-radius: 10%;
+    border: none;
+    border-radius: 4px;
     width: 35%;
     height: 150%;
 }
